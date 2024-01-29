@@ -35,4 +35,4 @@ Asegúrate de tener Docker instalado. Luego, ejecuta el siguiente comando:
 - GET /api/url/redirect/{shortUrlID}: Redirigir a la URL original a partir de un código corto.
 
 ## Contribuciones 🤝
-¡Contribuciones bienvenidas! Si tienes alguna mejora, corrección de errores o nuevas características, no dudes en abrir un problema o enviar una solicitud de extracción.
+¡Contribuciones bienvenidas! Si tienes alguna mejora, corrección de errores o nuevas características, no dudes en contactar conmigo o enviar un pull request.
