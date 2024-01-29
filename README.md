@@ -28,11 +28,11 @@ Asegúrate de tener Docker instalado. Luego, ejecuta el siguiente comando:
 
 ## Endpoints 🌐
 
-GET /api/url/email/{email}: Obtener todas las URL asociadas a un usuario por correo electrónico.
-DELETE /api/url/delete: Eliminar una URL asociada a un usuario.
-PUT /api/url/update: Actualizar la información de una URL.
-POST /api/url/shorten: Acortar una nueva URL asociada a un usuario.
-GET /api/url/redirect/{shortUrlID}: Redirigir a la URL original a partir de un código corto.
+- GET /api/url/email/{email}: Obtener todas las URL asociadas a un usuario por correo electrónico.
+- DELETE /api/url/delete: Eliminar una URL asociada a un usuario.
+- PUT /api/url/update: Actualizar la información de una URL.
+- POST /api/url/shorten: Acortar una nueva URL asociada a un usuario.
+- GET /api/url/redirect/{shortUrlID}: Redirigir a la URL original a partir de un código corto.
 
 ## Contribuciones 🤝
 ¡Contribuciones bienvenidas! Si tienes alguna mejora, corrección de errores o nuevas características, no dudes en abrir un problema o enviar una solicitud de extracción.
