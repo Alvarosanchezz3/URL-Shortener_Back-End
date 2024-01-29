@@ -13,11 +13,12 @@ Antes de ejecutar la aplicación, asegúrate de configurar las variables de ento
 DATABASE_URL=jdbc:postgresql://nombre_servicio:puerto/nombre_bd
 DATABASE_USERNAME=usuario
 DATABASE_PASSWORD=contraseña
-
-# .env.db
+```
+```.env.db
 POSTGRES_USER=usuario_postgres
 POSTGRES_PASSWORD=contraseña
 POSTGRES_DB=nombre_bd
+```
 
 Ejecutar la Aplicación 🚀
 
