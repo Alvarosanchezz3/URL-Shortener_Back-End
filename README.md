@@ -19,12 +19,6 @@ POSTGRES_PASSWORD=contraseña
 POSTGRES_DB=nombre_bd
 ```
 
-## Ejecutar la Aplicación 🚀
-
-Asegúrate de tener Docker instalado. Luego, ejecuta el siguiente comando:
-
---> docker-compose up
-
 ## Endpoints 🌐
 
 - GET /api/url/email/{email}: Obtener todas las URL asociadas a un usuario por correo electrónico.
