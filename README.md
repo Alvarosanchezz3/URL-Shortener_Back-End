@@ -33,5 +33,6 @@ Asegúrate de tener Docker instalado. Luego, ejecuta el siguiente comando:
 - POST /api/url/shorten: Acortar una nueva URL asociada a un usuario.
 - GET /api/url/redirect/{shortUrlID}: Redirigir a la URL original a partir de un código corto.
 
-## Contribuciones 🤝
-¡Contribuciones bienvenidas! Si tienes alguna mejora, corrección de errores o nuevas características, no dudes en contactar conmigo o enviar un pull request.
+## Video del proyecto:
+
+https://github.com/Alvarosanchezz3/Api-URL_Shortener/assets/99328696/ef435469-6dbc-4e3d-a71a-374cbe7ebfd6
